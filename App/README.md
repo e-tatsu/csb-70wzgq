@@ -1,2 +1,0 @@
-# StudyRecordApplication
-Created with CodeSandbox

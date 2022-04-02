@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://e-tatsu.github.io/csb-70wzgq/static/css/main.61c58748.chunk.css",
+    "main.js": "https://e-tatsu.github.io/csb-70wzgq/static/js/main.748e5ba3.chunk.js",
+    "main.js.map": "https://e-tatsu.github.io/csb-70wzgq/static/js/main.748e5ba3.chunk.js.map",
+    "runtime-main.js": "https://e-tatsu.github.io/csb-70wzgq/static/js/runtime-main.48b5f8c4.js",
+    "runtime-main.js.map": "https://e-tatsu.github.io/csb-70wzgq/static/js/runtime-main.48b5f8c4.js.map",
+    "static/css/2.d668f133.chunk.css": "https://e-tatsu.github.io/csb-70wzgq/static/css/2.d668f133.chunk.css",
+    "static/js/2.852478cb.chunk.js": "https://e-tatsu.github.io/csb-70wzgq/static/js/2.852478cb.chunk.js",
+    "static/js/2.852478cb.chunk.js.map": "https://e-tatsu.github.io/csb-70wzgq/static/js/2.852478cb.chunk.js.map",
+    "index.html": "https://e-tatsu.github.io/csb-70wzgq/index.html",
+    "static/css/2.d668f133.chunk.css.map": "https://e-tatsu.github.io/csb-70wzgq/static/css/2.d668f133.chunk.css.map",
+    "static/css/main.61c58748.chunk.css.map": "https://e-tatsu.github.io/csb-70wzgq/static/css/main.61c58748.chunk.css.map",
+    "static/js/2.852478cb.chunk.js.LICENSE.txt": "https://e-tatsu.github.io/csb-70wzgq/static/js/2.852478cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48b5f8c4.js",
+    "static/css/2.d668f133.chunk.css",
+    "static/js/2.852478cb.chunk.js",
+    "static/css/main.61c58748.chunk.css",
+    "static/js/main.748e5ba3.chunk.js"
+  ]
+}

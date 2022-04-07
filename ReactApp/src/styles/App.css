@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@300&family=M+PLUS+Rounded+1c&family=Mrs+Saint+Delafield&display=swap");
+
+.App {
+  position: relative;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  justify-content: center;
+  text-align: center;
+}
